@@ -1,4 +1,4 @@
 #!bin/bash
 
-echo ${INPUT}-${BUILD_NUMBER}-DATA > ouput
+echo ${INPUT}-${BUILD_NUMBER}-DATA > output
 
